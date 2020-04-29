@@ -1,0 +1,13 @@
+C:\GitHub\.NET-Senac-Forms-1\bin\Debug\netcoreapp3.1\.NET-Senac-Forms-1.exe
+C:\GitHub\.NET-Senac-Forms-1\bin\Debug\netcoreapp3.1\.NET-Senac-Forms-1.deps.json
+C:\GitHub\.NET-Senac-Forms-1\bin\Debug\netcoreapp3.1\.NET-Senac-Forms-1.runtimeconfig.json
+C:\GitHub\.NET-Senac-Forms-1\bin\Debug\netcoreapp3.1\.NET-Senac-Forms-1.runtimeconfig.dev.json
+C:\GitHub\.NET-Senac-Forms-1\bin\Debug\netcoreapp3.1\.NET-Senac-Forms-1.dll
+C:\GitHub\.NET-Senac-Forms-1\bin\Debug\netcoreapp3.1\.NET-Senac-Forms-1.pdb
+C:\GitHub\.NET-Senac-Forms-1\obj\Debug\netcoreapp3.1\.NET-Senac-Forms-1.csprojAssemblyReference.cache
+C:\GitHub\.NET-Senac-Forms-1\obj\Debug\netcoreapp3.1\.NET-Senac-Forms-1.csproj.CoreCompileInputs.cache
+C:\GitHub\.NET-Senac-Forms-1\obj\Debug\netcoreapp3.1\.NET-Senac-Forms-1.AssemblyInfoInputs.cache
+C:\GitHub\.NET-Senac-Forms-1\obj\Debug\netcoreapp3.1\.NET-Senac-Forms-1.AssemblyInfo.cs
+C:\GitHub\.NET-Senac-Forms-1\obj\Debug\netcoreapp3.1\.NET-Senac-Forms-1.dll
+C:\GitHub\.NET-Senac-Forms-1\obj\Debug\netcoreapp3.1\.NET-Senac-Forms-1.pdb
+C:\GitHub\.NET-Senac-Forms-1\obj\Debug\netcoreapp3.1\.NET-Senac-Forms-1.genruntimeconfig.cache
